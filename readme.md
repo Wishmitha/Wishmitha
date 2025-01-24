@@ -1,32 +1,54 @@
 # Hi there, I'm Wishmitha Mendis 👋
 
-Welcome to my GitHub profile! I'm a passionate AI engineer and developer, constantly exploring the boundaries of technology and creating innovative solutions. I believe in leveraging AI to make a meaningful impact on businesses and society.
+Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and researcher with a passion for building AI-driven applications and solving complex problems. With a strong academic background and hands-on experience in cutting-edge projects, I thrive on creating innovative solutions that bridge research and real-world applications.
 
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Role**: AI Engineer/Developer with expertise in creating AI-driven applications and platforms.
-- 🌱 **Always Learning**: Continuously exploring the latest in AI, machine learning, and software development.
-- 💬 **Ask Me About**: AI, automation, and innovative ways to solve real-world problems with technology.
-- 📫 **How to Reach Me**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wishmithamendis/)!
+- 🔭 **Current Role**: AI Development Consultant at **brdge.ai**.
+- 🎓 **Education**:
+  - **M.Sc. in Artificial Intelligence and Machine Learning** (Distinction) - University of Birmingham
+  - **B.Sc. Engineering (Hons.) in Computer Science and Engineering** (First Class) - University of Moratuwa
+- 🌱 **Always Learning**: Exploring advancements in AI, machine learning, and deep learning for real-world impact.
+- 💬 **Ask Me About**: AI-powered automation, real-time data analysis, and scalable software development.
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/wishmithamendis/) | [GitHub](https://github.com/Wishmitha)
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, Java, C#, C++
-- **Frameworks & Libraries**: Django, TensorFlow, PyTorch
-- **Tools & Platforms**: Docker, GitHub, AWS, Linux
-- **Focus Areas**: 
-  - AI and machine learning
-  - Real-time data analysis and automation
-  - Back-end development with scalable architectures
+- **Programming Languages**: Python, Java, C#, C++, PHP, JavaScript, Matlab
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, Django, Flask, Scikit-Learn, OpenCV, Apache Airflow
+- **Tools & Platforms**: Docker, AWS (ECR, AppRunner, RDS, S3), Git, Anaconda
+- **Focus Areas**:
+  - Generative AI and LLM-based Applications
+  - Real-time data automation and analysis
+  - Back-end development and API integration
+  - Computer Vision and 3D Reconstruction
 
 ---
 
 ## 🌟 Projects & Highlights
-- **AI-Based Trading Platform**: Developing an intelligent trading platform with historical data analysis and automated trading strategies.
-- **AI Consultation Assistant**: Built a real-time transcription and summarization assistant for consultations, leveraging APIs like Fireflies.ai.
-- **Technical Support Automation Tool**: Designed a desktop application for real-time screen analysis and automated troubleshooting.
+### **AI-Based Trading Platform**
+- Built an intelligent trading platform with historical data analysis, strategy backtesting, and automated trading.
+- Leveraged APIs and scalable architecture for seamless data handling.
+
+### **Generative AI for Document Automation**
+- Developed LLM-based Generative AI to automate structured document creation for clients.
+- Integrated Flask/Django APIs and containerized deployments using Docker and AWS services.
+
+### **Tea Auction Price Prediction Tool**
+- Designed a tool using NLP and sentiment analysis to predict auction prices based on social, economic, and market factors.
+- Automated the pipeline using Apache Airflow for web scraping, data ingestion, and prediction.
+
+### **3D Reconstruction and Deep Learning**
+- Led projects on 3D geometry processing, Neural Radiance Fields (NeRF), and single-view 3D reconstruction.
+- Developed end-to-end pipelines for image-based reconstruction and texture style transfer.
+
+---
+
+## 📚 Publications
+- **"Educational Data Mining: A Review on Data Collection Process"** - ICTer 2018
+  - Proposed a framework for effective data collection in educational data mining research.
 
 ---
 
@@ -38,8 +60,9 @@ Welcome to my GitHub profile! I'm a passionate AI engineer and developer, consta
 ## 🤝 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wishmithamendis/)
 - 💼 [GitHub](https://github.com/Wishmitha)
+- 🌎 [Portfolio](https://wishmitha.github.io)
 
 ---
 
 ### ⚡ Fun Fact
-I enjoy playing chess, exploring history through games like *Age of Empires II*, and tinkering with AI-powered tools to improve workflows.
+I enjoy exploring history through games like *Age of Empires II*, playing chess, and leveraging AI-powered tools to bring ideas to life.
