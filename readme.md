@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and res
   - **B.Sc. Engineering (Hons.) in Computer Science and Engineering** (First Class) - University of Moratuwa
 - 🌱 **Always Learning**: Exploring advancements in AI, machine learning, and deep learning for real-world impact.
 - 💬 **Ask Me About**: AI-powered automation, real-time data analysis, and scalable software development.
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/wishmithamendis/) | [GitHub](https://github.com/Wishmitha)
+- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/wishmithamendis/)
 
 ---
 
@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and res
 
 ## 🤝 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wishmithamendis/)
-- 💼 [GitHub](https://github.com/Wishmitha)
 - 🌎 [Portfolio](https://wishmitha.github.io)
 
 ---
