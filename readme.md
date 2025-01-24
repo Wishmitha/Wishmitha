@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate AI engineer and developer, consta
 ---
 
 ## 📊 GitHub Stats
-![Wishmitha's GitHub Stats]([github-readme-stats-rose-nu-13.vercel.app/api?username=Wishmitha&show_icons=true&count_private=true&theme=radical](https://github-readme-stats-rose-nu-13.vercel.app/api?username=Wishmitha&show_icons=true&count_private=true&theme=radical))
+![Wishmitha's GitHub Stats](https://github-readme-stats-rose-nu-13.vercel.app/api?username=Wishmitha&show_icons=true&count_private=true&theme=radical)
 
 ---
 
