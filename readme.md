@@ -1,4 +1,4 @@
-# Hi there, I'm Wishmitha Mendis 👋
+# Hi there, I'm Wishmitha 👋
 
 Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and researcher with a passion for building AI-driven applications and solving complex problems. With a strong academic background and hands-on experience in cutting-edge projects, I thrive on creating innovative solutions that bridge research and real-world applications.
 
