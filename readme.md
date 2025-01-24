@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate AI engineer and developer, consta
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python, Java, C#, C++
 - **Frameworks & Libraries**: Django, TensorFlow, PyTorch
 - **Tools & Platforms**: Docker, GitHub, AWS, Linux
 - **Focus Areas**: 
