@@ -35,8 +35,3 @@ Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and res
 ## 🤝 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wishmithamendis/)
 - 🌎 [Portfolio](https://wishmitha.github.io)
-
----
-
-### ⚡ Fun Fact
-I enjoy exploring history through games like *Age of Empires II*, playing chess, and leveraging AI-powered tools to bring ideas to life.
