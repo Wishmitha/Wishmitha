@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an experienced AI engineer, developer, and res
 ---
 
 ## 🚀 About Me
-- 🔭 **Current Role**: AI Engineer at **brdge.ai**.
+- 🔭 **Current Role**: AI Application Software Developer at **The PPav**.
 - 🎓 **Education**:
   - **M.Sc. in Artificial Intelligence and Machine Learning** (Distinction) - University of Birmingham
   - **B.Sc. Engineering (Hons.) in Computer Science and Engineering** (First Class) - University of Moratuwa
